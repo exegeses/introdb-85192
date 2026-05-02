@@ -4,7 +4,7 @@
 > Como el servidor de base de datos no tiene interfaz gráfica amigable, vamos a utilizar esta herramienta
 > Una vez que abramos la herramienta, debemos conectarnos al servidor
 
-> vamos a escribir código SQL en la ventana código
+> Vamos a escribir código SQL en la ventana código
 > Y luego cuando lo ejecutemos venimos el resultado en la ventana 'Output'
 
 > Para ejecutar los comandos tenemos un icono y también un atajo de teclado
