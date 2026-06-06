@@ -8,7 +8,7 @@
 6. Grok (X)
 7. Claude (Anthropic)
 8. Qwen (Alibaba Cloud)
-9. Mistral (Mistrar AI)
+9. Mistral (Mistral AI)
 10. Z (Knowledge Atlas Technology)
 
 > ver: <https://arena.ai/es/leaderboard>
